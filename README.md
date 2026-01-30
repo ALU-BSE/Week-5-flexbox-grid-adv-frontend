@@ -223,17 +223,17 @@ Create the classic "Holy Grail" layout with additional interactive components an
 
 ## Submission Requirements (All Levels)
 
-For each level, students should submit:
+For each level, the group should submit:
 
-1. HTML file with semantic markup
-2. Two separate CSS files:
+1. Two separate CSS files:
    - `flexbox-style.css`
    - `grid-style.css`
-3. A brief reflection document (300-500 words) comparing their experience with both layout systems:
+2. A brief reflection document (300-500 words) comparing their experience with both layout systems:
    - Which was easier to implement?
    - Which required less code?
    - Which was more intuitive?
    - In what scenarios would they prefer one over the other?
+3. Each group member is required to select a task and push their corresponding code to the repository.
 
 ## Assessment Criteria
 
